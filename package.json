@@ -1,0 +1,22 @@
+{
+	"name": "Data.Maybe-js",
+	"description": "experimental haskell Data.Maybe operations for nodejs",
+	"main": "./index.js",
+	"version": "0.0.1",
+	"author": "Andrew Darqui (http://github.com/adarqui)",
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/adarqui/Data.Maybe-js.git"
+	},
+	"licenses": [
+		{
+			"type": "MIT"
+		}
+	],
+	"bugs": {
+		"url" : "http://github.com/adarqui/Data.Maybe-js/issues"
+	},
+	"dependencies": {
+		"vows" : "0.7.0"
+	}
+}
